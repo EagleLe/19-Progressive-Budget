@@ -1,6 +1,6 @@
 # 19-Progressive-Budget
 
-Add functionality to the tracker to track budget offline or online. When the transaction is offline, it should populate again when online. I could not get this to deploy on heroku, but I have attached a gif file here showing the app running on a localhost. 
+Add functionality to the tracker to track budget offline or online. When the transaction is offline, it should populate again when online. I could not get this to deploy on heroku, but I have attached a screenshot and video file here showing the app running on a localhost. 
 # Screenshot
 
 ![budget](https://user-images.githubusercontent.com/85507148/130080483-b1660d48-7713-4ab4-b526-f93c270cf086.png)
