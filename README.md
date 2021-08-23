@@ -5,7 +5,7 @@ Update: I got it deployed on Heroku: failed to connect to mongodb and some port 
 
 # Deployment Link 
 
-https://infinite-tor-24433.herokuapp.com/
+https://eagle-budget-tracker.herokuapp.com/
 
 # Screenshot
 
